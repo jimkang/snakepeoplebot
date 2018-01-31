@@ -83,6 +83,11 @@ li.pane {
   width: 100%;
 }
 
+footer {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
 @media all and (max-width: 414px) {
   body {
     font-size: 12px;
